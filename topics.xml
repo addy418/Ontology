@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--topic list -->
+
+<topicList>
+
+<topic>
+<name> CS </name>
+<concept> DS </concept>
+<concept> OOP </concept>
+<concept> ALGO </concept>
+<parent> none </parent>
+</topic>
+
+<topic>
+<name> DS </name>
+<concept> tree </concept>
+<concept> graph </concept>
+<parent> CS </parent>
+</topic>
+
+<topic>
+<name> OOP </name>
+<concept> clss </concept>
+<concept> inheritence </concept>
+<parent> CS </parent>
+</topic>
+
+<topic>
+<name> ALGO </name>
+<concept> sort </concept>
+<concept> search </concept>
+<parent> CS </parent>
+</topic>
+
+<topic>
+<name> tree </name>
+<concept> none </concept>
+<parent> DS</parent>
+</topic>
+
+<topic>
+<name> graph </name>
+<concept> none </concept>
+<parent> DS</parent>
+</topic>
+
+<topic>
+<name> class </name>
+<concept> none </concept>
+<parent> OOP </parent>
+</topic>
+
+<topic>
+<name> inheritence </name>
+<concept> none </concept>
+<parent> OOP</parent>
+</topic>
+
+<topic>
+<name> sort </name>
+<concept> none </concept>
+<parent> ALGO</parent>
+</topic>
+
+<topic>
+<name> search </name>
+<concept> none </concept>
+<parent> ALGO</parent>
+</topic>
+
+</topicList>
